@@ -3,7 +3,7 @@ This app analyzes user comments and detects toxicity categories
 
 ## To run The demo: 
 Visit :
-(Toxicity Detection Game)[https://huggingface.co/spaces/TamerDeen/DAT158toxicity]
+[Visit: Toxicity Detection Game](https://huggingface.co/spaces/TamerDeen/DAT158toxicity)
 
 ## This project contains several models. 
 These models were trained until the best model was achieved. The best model was published on Spaces.
