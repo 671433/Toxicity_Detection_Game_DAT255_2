@@ -1,0 +1,22 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "55732501282a0287",
+  "_format_columns": [
+    "identity_attack",
+    "insult",
+    "obscene",
+    "severe_toxicity",
+    "sexual_explicit",
+    "text",
+    "threat",
+    "toxicity"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
